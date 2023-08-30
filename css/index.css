@@ -172,3 +172,9 @@ body {
 }
 
 /* End our team  */
+
+/* Start project */
+.project{
+    background-color: var(--dark-color);
+}
+/* End project */
