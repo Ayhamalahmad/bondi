@@ -158,3 +158,17 @@ body {
     max-width: 50%;
 }
 /* Start Stuff  */
+
+/* Start our team  */
+.our-team{
+    background-color: var(--section-color);
+}
+
+.our-team h2 {
+    color: var(--yellow-color);
+}
+.our-team .box h4{
+    background-color: var(--green-color);
+}
+
+/* End our team  */
