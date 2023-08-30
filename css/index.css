@@ -178,3 +178,23 @@ body {
     background-color: var(--dark-color);
 }
 /* End project */
+
+/* Start subscribe */
+.subscribe{
+    background-color: var(--yellow-color);
+}
+.subscribe .subscribe-input{
+    border: none;
+    border-bottom: 1px solid white;
+}
+.subscribe .subscribe-input::placeholder{
+    color: white;
+}
+.subscribe .subscribe-input:focus{
+    outline: none;
+}
+.subscribe input[type="submit"]{
+    background-color: var(--dark-color);
+    color: var(--yellow-color);
+}
+/* Start subscribe */
